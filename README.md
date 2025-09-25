@@ -85,8 +85,8 @@
  *   **Save the Script**: Save the provided SQL script as a `.sql` file. For example, you can name it `ecommerce_store.sql`. 💾
  *   **Execute the Script**: Open your MySQL client and run the script using the following command:
 
-  ```bash
-  mysql -u your_username -p < ecommerce_store.sql
+  
+  mysql -u your_username -p < ecommerce_store.sql 
 
  * Replace your_username with your actual MySQL username. 🔑
 
